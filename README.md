@@ -1,0 +1,2 @@
+# SmartContact
+BitDraw SmartContract
