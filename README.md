@@ -12,4 +12,4 @@ Token sale will take place between the 23rd of August 2018 to 29th of November 2
 
 Smart contract is published in Ethereum blockchain.
 
-Address is 0x09de7e9932926d98298d1ecf50015bbeb9089678
+Address is 0xec270e8f52b492dd0c2dcd43fc6f868e78f49f18
